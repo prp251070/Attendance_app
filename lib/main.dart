@@ -120,11 +120,7 @@
 // void main() async {
 //   WidgetsFlutterBinding.ensureInitialized();
 //
-//   await Supabase.initialize(
-//     url: 'https://peuhhsyxyklzfaxdvhpp.supabase.co',
-//     anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBldWhoc3l4eWtsemZheGR2aHBwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDczMDMyMjksImV4cCI6MjA2Mjg3OTIyOX0._VvkSLzPE5K_qKmlp8WMsvfAQpHQizS7oUVmP5jvOO0',
-//   );
-//
+// 
 //   await LocalDBHelper().init();
 //
 //   final hasInternet = await checkInternetConnection();
